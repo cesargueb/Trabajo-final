@@ -52,4 +52,4 @@ Aquí les describo las variables que incluimos en la subdata (como les precisé,
 
 # ¿Categorización?
 
-Directamente, en la subdata podrán observar que se han eliminado los valores perdidos (por ello, nos quedamos con 298 filas) y que ya se cambió el nombre a cada variable. Asimismo, podrán observar que todas están categorizadas como *variables numéricas,* esto lo determino así para que no haya problema al clausterizar. Una vez que determinemos, finalmente, las variables que utilizaremos, les compartiré por aquí los caomandos necesarios con los que hemos llegado a la subdata. 
+Directamente, en la subdata podrán observar que se han eliminado los valores perdidos (por ello, nos quedamos con 298 filas) y que ya se cambió el nombre a cada variable. Asimismo, podrán observar que todas están categorizadas como *variables numéricas,* esto lo determino así para que no haya problema al clausterizar. Una vez que determinemos, finalmente, las variables que utilizaremos, les compartiré por aquí los comandos necesarios con los que hemos llegado a la subdata. 

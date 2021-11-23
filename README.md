@@ -29,23 +29,23 @@ Aquí les describo las variables que incluimos en la subdata (como les precisé,
 
 ## Variables de FACTORES PERSONALES
 
-1. Sexo (1)Hombre y (2)Mujer: P207
-2. Educación (¿Cuál es el último año o grado de estudios y nivel que aprobó ?): P301A
-3. Edad en años cumplidos: P208A
-4. Estado civil (¿Cuál es su estado civil o conyugal?): P209
+1. Sexo (1)Hombre y (2)Mujer: P207 (sexo)
+2. Educación (¿Cuál es el último año o grado de estudios y nivel que aprobó ?): P301A (educ)
+3. Edad en años cumplidos: P208A (edad)
+4. Estado civil (¿Cuál es su estado civil o conyugal?): P209 (est_civil)
 
 > Según la literatura, faltarían dos variables (Tipo de carrera y Raza), pero estas no son consideradas en la data; por ello, no se tomarán en cuenta.
 
 ## Variables de FACTORES LABORALES
 
-5. Profesión laboral: P505 (numeración según el CIOU-88: https://docs.google.com/spreadsheets/d/1WQph7VqVjIdnYsBH5KcZKE2ZkJtzyIyx/edit?usp=sharing&ouid=107802791889917808463&rtpof=true&sd=true)
-6. Horas laborales totales: P513T
+5. Profesión laboral: P505 (profes)
+6. Total de horas trabajadas: P513T (horas)
 
 > Según la literatura, faltarían tres variables (Viaje por trabajo, Teletrabajo y Rendimiento); sin embargo, la primera no está en el diccionario y las otras no son variables independientes. 
 
 ## Otras variables
 
-7. Ingreso total (principal): P524A1
-8. Ingreso líquido (principal): P524E1
-9. Ingreso total (secundario): P538A1
-10. ingreso líquido (secundario): P538E1
+7. Ingreso total (principal): P524A1 (IngTotalPrin)
+8. Ingreso líquido (principal): P524E1 (IngLiquiPrin)
+9. Ingreso total (secundario): P538A1 (IngTotalSecu)
+10. ingreso líquido (secundario): P538E1 (IngLiquiSecun)

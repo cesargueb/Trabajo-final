@@ -18,7 +18,7 @@ data=import("Base_Enaho.csv")
 Luego, utilicemos el siguiente comando para poder importar la base de datos. De esta manera, nos omitiremos enviar constantemente archivos cada vez que los modificamos. 
 
 ```
-lkCSV = " https://raw.githubusercontent.com/cesargueb/TrabajoGrupal/main/subdata.csv "
+lkCSV = "https://raw.githubusercontent.com/cesargueb/Trabajo-final/main/subdata.csv"
 subdata = importar ( lkCSV )
 ```
 Cada vez que se elimine o agregue una variable, me encargaré de modificar la subdata aquí. De esta manera, ustedes solo necesitarían volver a correr los comandos anteriores. 

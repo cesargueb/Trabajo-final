@@ -1,10 +1,10 @@
 # Importar base de datos
 
-Para evitar, constantemente, enviarnos base de datos modificadas, les propongo que sigamos los sigueintes pasos para tratar que todo estéautomatizado.
+Para evitar, constantemente, enviarnos base de datos modificadas, les propongo que sigamos los siguientes pasos para tratar que todo esté automatizado.
 
 ## Base principal
 
-Primero, es importante que cada quien tenga descargada la base de datos principal. En caso no la posean, pueden ingresar a este enlace de Drive para descargarlar (no lo comparto por aquí por su peso). Aquí el enlace: https://drive.google.com/file/d/1V3-pH4BRPH6vgmv8L_hjvyxO1MALyAoW/view?usp=sharing
+Primero, es importante que cada quien tenga descargada la base de datos principal. En caso no la posean, pueden ingresar a este enlace de Drive para descargarla (no lo comparto por aquí por su peso). Aquí el enlace: https://drive.google.com/file/d/1V3-pH4BRPH6vgmv8L_hjvyxO1MALyAoW/view?usp=sharing
 
 Luego, deben colocar los siguientes comandos para que puedan abrir la base en su environment. No olviden que deben abrir en R la carpeta en la que descargaron la data.
 
@@ -15,7 +15,7 @@ data=import("Base_Enaho.csv")
 
 ## Subdata
 
-Luego, utilicemos el siguiente comando para poder importar la base de datos. De esta manera, nos omitiremos enviar constantemente archivos cada vez que los modificamos. 
+Luego, utilicemos el siguiente comando para poder importar la base de datos creada a partir de las variables seleccionadas (subdata). De esta manera, nos omitiremos enviar constantemente archivos cada vez que los modifiquemos. 
 
 ```
 lkCSV = "https://raw.githubusercontent.com/cesargueb/Trabajo-final/main/subdata.csv"

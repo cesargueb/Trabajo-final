@@ -38,7 +38,7 @@ Aquí les describo las variables que incluimos en la subdata (como les precisé,
 
 ## Variables de FACTORES LABORALES
 
-5. Profesión laboral: P505 (profes) [https://docs.google.com/spreadsheets/d/1WQph7VqVjIdnYsBH5KcZKE2ZkJtzyIyx/edit?usp=sharing&ouid=107802791889917808463&rtpof=true&sd=true]
+5. Profesión laboral: P505 (profes) [Según el CIOU-88: https://docs.google.com/spreadsheets/d/1WQph7VqVjIdnYsBH5KcZKE2ZkJtzyIyx/edit?usp=sharing&ouid=107802791889917808463&rtpof=true&sd=true]
 6. Total de horas trabajadas: P513T (horas)
 
 > Según la literatura, faltarían tres variables (Viaje por trabajo, Teletrabajo y Rendimiento); sin embargo, la primera no está en el diccionario y las otras no son variables independientes. 

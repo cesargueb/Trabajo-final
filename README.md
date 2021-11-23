@@ -19,7 +19,7 @@ Luego, utilicemos el siguiente comando para poder importar la base de datos. De 
 
 ```
 lkCSV = "https://raw.githubusercontent.com/cesargueb/Trabajo-final/main/subdata.csv"
-subdata = importar ( lkCSV )
+subdata = import(lkCSV)
 ```
 Cada vez que se elimine o agregue una variable, me encargaré de modificar la subdata aquí. De esta manera, ustedes solo necesitarían volver a correr los comandos anteriores. 
 
